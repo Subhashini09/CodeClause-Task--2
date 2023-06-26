@@ -1,6 +1,6 @@
 <h1>Market-Basket-Analysis-in-Python-using-Apriori-Algorithm</h1>
 
-<h3>Allocated Project-</h3>
+<h3>Allocated Project</h3>
 
 Task 2 -Market Basket Analysis in Python using Apriori Algorithm
 
